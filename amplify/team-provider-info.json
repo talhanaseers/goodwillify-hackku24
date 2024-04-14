@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-goodwillifyhackku24-dev-224147-authRole",
+      "UnauthRoleArn": "arn:aws:iam::424262792323:role/amplify-goodwillifyhackku24-dev-224147-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::424262792323:role/amplify-goodwillifyhackku24-dev-224147-authRole",
+      "Region": "us-east-2",
+      "DeploymentBucketName": "amplify-goodwillifyhackku24-dev-224147-deployment",
+      "UnauthRoleName": "amplify-goodwillifyhackku24-dev-224147-unauthRole",
+      "StackName": "amplify-goodwillifyhackku24-dev-224147",
+      "StackId": "arn:aws:cloudformation:us-east-2:424262792323:stack/amplify-goodwillifyhackku24-dev-224147/ec851730-fa10-11ee-a5c5-0273b3f34cfb",
+      "AmplifyAppId": "d18q7woefespm3"
+    },
+    "categories": {
+      "auth": {
+        "goodwillifyhackku2404d4ca60": {}
+      }
+    }
+  }
+}
