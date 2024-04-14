@@ -1,0 +1,36 @@
+/* AppLogin.css */
+.button-container {
+    text-align: center; /* Center the button */
+    margin-top: 80px;
+    margin-right: 200px;
+  }
+  
+  .button-container button {
+    border-radius: 6px; /* Adjust button border radius */
+    background-color: #726060; /* Adjust button background color */
+    border-color: #EEEEEE; /* Adjust button border color */
+    color: #EEEEEE; /* Adjust button text color */
+    font-weight: bold; /* Adjust button text weight */
+    padding: 10px 20px; /* Adjust button padding */
+    font-size: 14px; /* Adjust button font size */
+  }
+  
+  .button-container button:hover {
+    background-color: #726060; /* Adjust button background color */
+    color: #EEEEEE; /* Adjust button text color */
+  }
+
+  @media (max-width: 767px) {
+    .button-container {
+        text-align: center; /* Center the button */
+        margin-top: -8%;
+        margin-right: 0%;
+      }
+
+
+    .button-container button {
+      padding: 6px 12px; /* Adjust button padding for mobile */
+      font-size: 10px; /* Adjust button font size for mobile */
+    }
+  }
+  
